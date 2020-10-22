@@ -10,7 +10,12 @@ I'm Tiago, passionate by software development, design and architecture.
 ![GitHub followers](https://img.shields.io/github/followers/tiagosampaio?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/theTiagoSampaio?style=social)
 
-<img src="https://img.shields.io/badge/LinkedIn-tiagosampaio-blue"/>
+<a href="https://www.linkedin.com/in/tsampaio/">
+  <img src="https://img.shields.io/badge/LinkedIn-tsampaio-blue"/>
+</a>
+<a href="https://twitter.com/theTiagoSampaio">
+  <img src="https://img.shields.io/badge/Twitter-%40theTiagoSampaio-blue"/>
+</a>
 
 <!--
 **tiagosampaio/tiagosampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
