@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm Tiago, passionate by software development, design and architecture.
+I'm Tiago, passionate by software development, design, and architecture.
 
 - 🔭 I’m currently working with Magento 2 development
 - 🌱 I’m currently learning how to be a better version of myself each day
