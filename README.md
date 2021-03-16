@@ -10,7 +10,7 @@ I'm Tiago, passionate by software development, design, and architecture.
 Owner and Maintener of MagedIn Technology's repository on Github:
 
 <a href="https://github.com/magedin">
-  <img src="https://university.magedin.com/wp-content/uploads/2019/03/magedin-university-dark-1.svg" alt="MagedIn Univeristy" width="200px" height="50" style="max-width: 100%; background: white; padding: 15px; margin-bottom: 15px; border-radius: 10px; border: solid 2px red;"/>
+  <img src="https://university.magedin.com/wp-content/uploads/2019/03/magedin-university-dark-1.svg" alt="MagedIn Univeristy" width="200px" height="50"/>
 </a>
 
 <br/>
