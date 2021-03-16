@@ -7,13 +7,13 @@ I'm Tiago, passionate by software development, design, and architecture.
 - 💬 Ask me about anything related to Magento development
 - ⚡ Fun fact: I love video-games (God of War is the best game ever!) but it lacks me time to play sometimes...
 
-Owner and Maintener of MagedIn Technology's repository on Github:
+Owner and Maintainer of MagedIn Technology's repository on Github:
 
 <a href="https://github.com/magedin">
   <img src="https://university.magedin.com/wp-content/uploads/2019/03/magedin-university-dark-1.svg" alt="MagedIn Univeristy" width="200px" height="50"/>
 </a>
 
-<br/>
+<br><br><br>
 
 ![GitHub followers](https://img.shields.io/github/followers/tiagosampaio?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/theTiagoSampaio?style=social)
