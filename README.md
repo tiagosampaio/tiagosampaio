@@ -1,13 +1,12 @@
 ### Hi there 👋,
 
-I'm Tiago, passionate by software development, design, and architecture.
+I’m Tiago — a passionate software developer, designer, and software architect.
 
-- 🔭 I’m currently working with Magento 2 development
-- 🌱 I’m currently learning how to be a better version of myself each day
-- 💬 Ask me about anything related to Magento development
-- ⚡ Fun fact: I love video-games (God of War is the best game ever!) but it lacks me time to play sometimes...
-
-Owner and Maintainer of MagedIn Technology's repository on Github:
+- 🔭 Currently focused on Magento 2 development
+- 🌱 Always learning and working to become a better version of myself every day
+- 💬 Feel free to ask me anything about Magento development — I love helping the community!
+- ⚡ Fun fact: I’m a huge video game fan (God of War is my all-time favorite!) — though finding time to play is another battle… 🎮
+- 🏗️ Owner and maintainer of MagedIn Technology’s repositories here on GitHub
 
 <a href="https://github.com/magedin">
   <img src="https://raw.githubusercontent.com/magedin/assets/refs/heads/master/images/logo/magedin_horizontal.svg" alt="MagedIn Univeristy" width="200px"/>
